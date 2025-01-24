@@ -1,0 +1,1 @@
+This issue is related to Tailwind's PurgeCSS integration.  When using PurgeCSS to remove unused styles, it might unintentionally remove styles that are dynamically added to elements via JavaScript. This often leads to unexpected styling issues, particularly when using features that rely on dynamically generated class names or conditionally applied styles.
